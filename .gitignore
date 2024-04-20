@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But not these files...
+!README.md
+!image.png
+!VirtualRadar.exe.config
+!VirtualRadar.LanguagePack.tar.gz
+!VirtualRadar.tar.gz
+!VirtualRadar.WebAdminPlugin.tar.gz
+
+# Additionally, don't ignore .gitignore file itself
+!.gitignore
